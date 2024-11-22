@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hi 🤙, I'm Piotr </h1>
-<h3 align="center">A p̶a̶s̶s̶i̶o̶n̶a̶t̶e̶ ̶d̶e̶v̶e̶l̶o̶p̶e̶r̶    ***student from Poland</h3>
+<h3 align="center">A p̶a̶s̶s̶i̶o̶n̶a̶t̶e̶ ̶d̶e̶v̶e̶l̶o̶p̶e̶r̶    ***student debil from Poland</h3>
 <h3 align="center"> ♿ currently learning :
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="44" height="44"/> </a> 
   + 
