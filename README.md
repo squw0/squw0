@@ -7,7 +7,7 @@
 <h1 align="center">Hi 🤙, I'm Piotr </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=squw0&label=Profile%20views&color=050505&style=plastic" alt="squw0" /> </p>
 <h3 align="center">A p̶a̶s̶s̶i̶o̶n̶a̶t̶e̶ ̶d̶e̶v̶e̶l̶o̶p̶e̶r̶    ***student debil from Poland</h3>
-<h3 align="center"> ♿ currently learning :
+<h3 align="center"> currently learning :
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   + 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -36,7 +36,7 @@
 ###
 
 <h3 align="center">My Languages and Tools:</h3>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
