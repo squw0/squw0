@@ -1,12 +1,10 @@
-<div align="center">
-  <img height="600" width="900" src="https://media.giphy.com/media/cF7QqO5DYdft6/giphy.gif?cid=ecf05e472wozxgg1nx0hpgqnr5a3hsqikknpsft8ecs7yydf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+
 
 ###
 
 <h1 align="center">Hi 🤙, I'm Piotr </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=squw0&label=Profile%20views&color=050505&style=plastic" alt="squw0" /> </p>
-<h3 align="center">A p̶a̶s̶s̶i̶o̶n̶a̶t̶e̶ ̶d̶e̶v̶e̶l̶o̶p̶e̶r̶    ***student debil from Poland</h3>
+<h3 align="center">A passionate developer from Poland</h3>
 <h3 align="center"> currently learning :
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   + 
